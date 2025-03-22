@@ -1,2 +1,2 @@
-# What-is-Tableau-
-Tableau is a data visualization software used to analyze and display data in an interactive, visual format. It helps users create a wide range of graphs, charts, maps, and dashboards that allow them to uncover trends, patterns, and insights that would be hard to detect in a standard spreadsheet.
+# Unveiling Business Insights: My Journey with Power BI and Tableau
+In today’s data-driven world, the ability to visualize and analyze information effectively is a crucial skill. Through my recent projects using Power BI and Tableau, I have explored how data storytelling can drive better decision-making and uncover hidden business opportunities.
